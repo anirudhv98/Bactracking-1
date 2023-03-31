@@ -1,5 +1,5 @@
 // Time Complexity : O(2^(m*n))
-// Space Complexity : O(2^(m*n))
+// Space Complexity : O(m+n)
 // Did this code successfully run on Leetcode : Yes
 // Three line explanation of solution in plain english
 
